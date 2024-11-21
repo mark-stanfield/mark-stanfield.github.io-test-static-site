@@ -8,3 +8,9 @@ tags: [aws, hokies, intro] #tag names are always lowercase
 # Welcome 
 
 Welcome to my page!!!
+
+This is my first post
+
+```python
+print('hello hokies')
+```
